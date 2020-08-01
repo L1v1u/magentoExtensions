@@ -2,10 +2,6 @@
 
     ``ld/module-changeorderemail``
 
- - [Installation](#markdown-header-installation)
- - [Specifications](#markdown-header-specifications)
-
-
 
 ### Instaltion: Zip file
 
