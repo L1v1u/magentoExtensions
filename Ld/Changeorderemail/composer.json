@@ -1,0 +1,22 @@
+{
+    "name": "ld/module-changeorderemail",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Liviu Dobre",
+            "email": "liviu.dobre.ns@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ld\\Changeorderemail\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
